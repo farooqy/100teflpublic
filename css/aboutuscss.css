@@ -1,0 +1,95 @@
+.aboutusDiv {
+<<<<<<< HEAD
+  border:thin solid gray;
+  margin-bottom:20px;
+  overflow:hidden;
+=======
+	border:thin solid gray;
+	margin-bottom:20px;
+	overflow:hidden;
+>>>>>>> 28bf68ad3063e2a58be5cc5ce0b624219555fec0
+}
+.aboutusDiv .aboutusIconDiv {
+  height: 200px;
+  margin: 0 0 0 -40px;
+  -webkit-transform: skew(20deg);
+  -moz-transform: skew(20deg);
+  -o-transform: skew(20deg);
+  background: #f2981e;
+  overflow: hidden;
+  position: relative;
+  border-right:thin solid gray;
+}
+.aboutusDiv .aboutusIconDiv img {
+  height:80%;
+  width:80%;
+  padding-left:30%;
+  padding-top:10%;
+  -webkit-transform: skew(-20deg);
+  -moz-transform: skew(-20deg);
+  -o-transform: skew(-20deg);
+  
+}
+.aboutusDiv .aboutusInfoDiv {
+<<<<<<< HEAD
+  text-align:justify;
+  padding-left: 50px;
+=======
+	text-align:justify;
+>>>>>>> 28bf68ad3063e2a58be5cc5ce0b624219555fec0
+}
+.aboutusDiv .aboutusInfoDiv h3 {
+  text-align:center;
+  text-decoration:underline;
+}
+<<<<<<< HEAD
+.aboutusDiv .aboutusIconDiv:nth-child(1){
+  height: 240px;
+}
+
+=======
+>>>>>>> 28bf68ad3063e2a58be5cc5ce0b624219555fec0
+.aboutusDiv .aboutusIconDiv:nth-child(2) {
+  height: 200px;
+  -webkit-transform: skew(-20deg);
+  -moz-transform: skew(-20deg);
+  -o-transform: skew(-20deg);
+  background: #f7f2ca;
+  overflow: hidden;
+  position: relative;
+  border-left:thin solid gray;
+  border-right:none;
+  right:-10%;
+  padding-right:5%;
+  
+}
+
+.aboutusDiv .aboutusIconDiv:nth-child(2) img {
+  height:80%;
+  width:80%;
+  padding-left:30%;
+  padding-top:10%;
+  -webkit-transform: skew(20deg);
+  -moz-transform: skew(20deg);
+  -o-transform: skew(20deg);
+  
+}
+.aboutusContactusBlock a{
+  font-size:18px;
+  padding-bottom:20px;
+  padding-left:20%;
+}
+@media only screen and (max-width: 786px) {
+
+<<<<<<< HEAD
+  .aboutusDiv .aboutusIconDiv, .aboutusDiv .aboutusInfoDiv {
+    display: block;
+    width: 100%;
+  }
+=======
+	.aboutusDiv .aboutusIconDiv, .aboutusDiv .aboutusInfoDiv {
+		display: block;
+		width: 100%;
+	}
+>>>>>>> 28bf68ad3063e2a58be5cc5ce0b624219555fec0
+}

@@ -1,0 +1,49 @@
+@media only screen and	(max-width:768px){
+	.navbarDiv img {
+		height: 100px;
+	}
+	.navbarDiv input {
+		display: inline-block;
+		width: 80%;
+	}
+	.contenthover {
+		margin-top: 8%;
+	}
+	.container-fluid div h3:nth-child(1) {
+		margin-top: 45%;
+	}
+
+	.container-fluid .servicesblock .blockDiv {
+		display:inline-table;
+		width: 100%;
+		margin-left: -6px;
+	}
+	.footerMenu {
+		text-align: center;
+		position: relative;
+		left: -30px;
+	}
+	.footerBlock input {
+		position: relative;
+		margin-left: 0px;
+		left: -45px;
+		font-size: 13px;
+		width:100%;
+	}
+	.footerBlock .btn-primary {
+		width: 100%;
+		position: relative;
+		margin-left: 0px;
+		left: -45px;
+	}
+	.footerCopyRight , .footerBlockMedia{
+		position: relative;
+		left: -40px;
+		text-align: center;
+	}
+	.footerBlock img {
+		position: relative;
+		text-align: center;
+		left: -10px;
+	}
+}
