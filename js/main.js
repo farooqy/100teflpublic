@@ -1,5 +1,7 @@
 // JavaScript Document
 $(document).ready(function(){
+	
+	
 	$('.search-icon').click(function(){
 		if($('.searchdiv').hasClass('visible'))
 		{

@@ -123,6 +123,9 @@ body {
 	z-index: 4;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
+.content-body {
+	margin-top:7%;
+}
 .container-fluid div h3 {
 	text-align: center;
 }
@@ -132,7 +135,7 @@ body {
 }
 .container-fluid .timer {
 	display: inline-block;
-	width: 230px;
+	width: 24%;
 	height: 200px;
 	text-align: center;
 	color: black;
